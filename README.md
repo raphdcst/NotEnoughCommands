@@ -2,6 +2,7 @@
 
 This package is just a way for me to easily add tons of predefined commands to a [discord.js-made](https://discord.js.org/) bot in just a second !
 
+> [!IMPORTANT]
 > For the moment, this package is made to extend the capabilities of the [bot.ts](https://github.com/bot-ts) framework, so make sure that your actually using this framework to build your bot !!
 
 ## Install
@@ -50,8 +51,10 @@ This will create two files named `<command-name>.ts` in :
 
 Those files contains all the necessary code to add the command to the bot. 
 
+> [!IMPORTANT]
 >You can modify them if needed, but keep in mind that these changes are not final and therefore will not be available the next time !
 
+> [!NOTE]
 > If you want a command to be availale by everyone and at any time, please open a PR !
 
 
