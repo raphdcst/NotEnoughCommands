@@ -1,0 +1,24 @@
+{
+  "name": "notenoughcommands",
+  "version": "0.0.1",
+  "description": "Just an useful collection of DiscordJs commands",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "discordjs",
+    "commands",
+    "collection"
+  ],
+  "author": "raph.dcst",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.3.2",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  }
+}
